@@ -5,9 +5,8 @@ class Solution {
             char ch = s.charAt(i);
             if (st.isEmpty() || ch =='(' || ch == '[' || ch== '{' )  st.push(ch);
             else {
-                if (ch ==')' && st.peek() == '(')  st.pop();
-                else if (ch =='}' && st.peek() == '{')  st.pop();
-                else if (ch ==']' && st.peek() == '[')  st.pop();
+                if (ch ==')' && st.peek() == '(' || ch =='}' && st.peek() == '{' ||
+               ch ==']' && st.peek() == '[' )  st.pop();
                 else return false;
             }
          }
