@@ -20,9 +20,7 @@ class Solution {
         }
 
         for(int i=0;i<nums1.length;i++){
-            if (map.containsKey(nums1[i])){
-                nums1[i] = map.get(nums1[i]);
-            }
+                nums1[i] = map.get(nums1[i]); // because nums1 is subset of nums2
         }
         return nums1;
     }
