@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
