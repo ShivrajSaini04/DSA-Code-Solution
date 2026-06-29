@@ -14,11 +14,11 @@ class Solution {
         putInMap();
         int sum = 0;
         for(int i=0;i<n;i++){
-            char ch = s.charAt(i);
-            if (i!=n-1 && map.get(ch) < map.get(s.charAt(i + 1))){
-                sum -= map.get(ch);
+            int curr  = map.get(s.charAt(i ));
+            if (i!=n-1 && curr < map.get(s.charAt(i + 1))){
+                sum -= curr;
             }
-            else sum += map.get(ch);
+            else sum += curr;
         }
         return sum;
     }
