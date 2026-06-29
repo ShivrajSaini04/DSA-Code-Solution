@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
