@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0686-repeated-string-match) |
 ## Linked List
 |  |
