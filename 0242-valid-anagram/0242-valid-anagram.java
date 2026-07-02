@@ -1,20 +1,19 @@
 class Solution {
-    public boolean isAnagram(String str, String str2) {
-        if (str.length()!= str2.length()) return false ;
-          HashMap<Character, Integer> map = new HashMap<>();
-         for (char ch : str.toCharArray()){
-           if (map.containsKey(ch)){
-            map.put(ch, map.get(ch)+1);
-           }
-           else map.put(ch, 1);
-         }
-
-         for (char ch : str2.toCharArray()){
-            if (!map.containsKey(ch)) return false ;
-            int freq = map.get(ch);
-            if (freq <= 0 )  return false ;
-            map.put(ch, freq-1);
-         }
-         return true ;
+    public boolean isAnagram(String s, String t) {
+        // we can use hashmap for frequency
+        if (s.length() != t.length()) return false;
+        int[] freq = new int[26];
+        
+        for(int i=0;i<s.length();i++){
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+            freq[ch1-'a']++;
+            freq[ch2-'a']--;
+        }
+        
+        for( int count : freq){
+            if (count != 0) return false;
+        }
+        return true;
     }
 }
