@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
