@@ -12,11 +12,11 @@ class Solution {
             adj.get(edges[i][1]).add(edges[i][0]);
         }
 
-        bfs(source,adj,visit);
+        bfs(source,adj,visit,destination);
         return visit[destination];
     }
 
-    void bfs(int start , List<List<Integer>> adj , boolean[] visit){
+    void bfs(int start , List<List<Integer>> adj , boolean[] visit,int destination){
          Queue<Integer> q = new LinkedList<>();
         q.add(start);
         visit[start] = true;
@@ -26,6 +26,7 @@ class Solution {
            if (!visit[ele]){
                q.add(ele);
                visit[ele] = true;
+               if (ele == destination) return ;
            }
           }
         }
