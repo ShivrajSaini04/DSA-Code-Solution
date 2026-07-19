@@ -37,22 +37,22 @@ class Solution {
             // up
             i = temp.i;
             j = temp.j;
-             if ((i > 0 && j < m) && (grid[i-1][j]== '1' && !visit[i-1][j])){
+             if (i > 0 && (grid[i-1][j]== '1' && !visit[i-1][j])){
                  q.add(new Pair(i-1, j));
                  visit[i-1][j] = true;
              }
              // down
-             if ((i < n-1 && j < m ) && (grid[i + 1][j] == '1' && !visit[i + 1][j])) {
+             if (i < n-1 && (grid[i + 1][j] == '1' && !visit[i + 1][j])) {
                  q.add(new Pair(i + 1, j));
                  visit[i + 1][j] = true;
              }
              // left
-             if ((i < n && j > 0) && (grid[i][j -1 ] == '1' && !visit[i][j - 1])) {
+             if ( j > 0 && (grid[i][j -1 ] == '1' && !visit[i][j - 1])) {
                  q.add(new Pair(i, j - 1));
                  visit[i][j -1 ] = true;
              }
              // right
-             if ((i < n && j < m - 1) && (grid[i][j + 1] == '1' && !visit[i][j + 1])) {
+             if (j < m - 1 && (grid[i][j + 1] == '1' && !visit[i][j + 1])) {
                  q.add(new Pair(i, j + 1));
                  visit[i][j + 1] = true;
              }
