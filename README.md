@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
