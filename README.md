@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
