@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -377,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
