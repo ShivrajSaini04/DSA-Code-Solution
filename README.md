@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -372,5 +375,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
