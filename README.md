@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
