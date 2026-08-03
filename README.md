@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0686-repeated-string-match](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0686-repeated-string-match) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
