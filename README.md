@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
