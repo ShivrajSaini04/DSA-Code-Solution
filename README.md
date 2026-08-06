@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0877-stone-game) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1406-stone-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
