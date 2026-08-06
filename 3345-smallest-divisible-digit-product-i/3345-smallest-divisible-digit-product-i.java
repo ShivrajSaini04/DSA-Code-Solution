@@ -3,7 +3,7 @@ class Solution {
         while(true){
             int product = digitProduct(n);
             if (product % t == 0) return n;
-            else n += 1;
+            else n++;
         }
     }
 
