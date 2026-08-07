@@ -15,6 +15,7 @@ class Solution {
             ch = s.charAt(i-k);
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ) currCount--;  
             maxCount = Math.max( currCount , maxCount);
+            if (maxCount == k) return k;
         }
 
         return  maxCount;
