@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0994-rotting-oranges) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
