@@ -6,20 +6,15 @@ class Solution {
         while(i<n){
             char ch = s.charAt(i);
 
-           if (arr[(int) ch]) {
-            max = Math.max(max , i - j);
-            while( j < n && s.charAt(j) != ch) {
-                 char ch1 = s.charAt(j++);
-                 arr[(int) ch1] = false;
+            while( arr[ch]) {
+                arr[s.charAt(j++)] = false;
             }
-            j++;
-           }
 
-           arr[(int) ch] = true;
+           arr[ch] = true;
+           max = Math.max(max , i-j +1);
            i++;
         }
 
-         max = Math.max(max , i-j);
         return max;
     }
 }
