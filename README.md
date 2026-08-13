@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3731-find-missing-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0686-repeated-string-match](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0686-repeated-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -488,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
