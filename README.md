@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
 | ------- |
