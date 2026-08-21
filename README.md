@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3731-find-missing-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Iterator
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
@@ -511,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
