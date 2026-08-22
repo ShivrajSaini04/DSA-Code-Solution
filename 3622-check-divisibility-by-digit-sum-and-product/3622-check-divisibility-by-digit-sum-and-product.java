@@ -11,8 +11,6 @@ class Solution {
             temp /= 10;
         }
 
-        if (n % (int) (sum + product) == 0) return true;
-
-        return false;
+        return n % (int) (sum + product) == 0;
     }
 }
