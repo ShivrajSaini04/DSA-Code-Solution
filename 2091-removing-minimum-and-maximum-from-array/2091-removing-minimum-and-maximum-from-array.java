@@ -28,8 +28,7 @@ class Solution {
          int left = maxIdx + 1;
          int right = n - minIdx;
          int leftRig = (minIdx + 1) + (n - maxIdx);
-        
-        
+    
         return Math.min(leftRig , Math.min(left , right));
     }
 }
