@@ -1,15 +1,9 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int n = nums1.length;
-        int j = 0;
-        for (int ele : nums1 ){
-             if (ele % 2 !=  0) break;
-             j++; 
-        }
-        for (int i = 0; i<n;i++){
-            if (nums1[i] % 2 == 0 && j > n) return false;
-        }
-
+        // for (int ele : nums1 ) if (ele % 2 !=  0) return true; 
+        // because ,all element odd / even 
+        // dusra agar ik bhi element odd hai to ham usse sabhi odd bana sakte hai 
+        // agar ik bhi odd nahi hai to all even , than answer true , if one element odd -> true
         return true;
     }
 }
