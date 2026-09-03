@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Trie
 |  |
 | ------- |
