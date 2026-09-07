@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0686-repeated-string-match](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0686-repeated-string-match) |
+| [0940-distinct-subsequences-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1406-stone-game-iii) |
