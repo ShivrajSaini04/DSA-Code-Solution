@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0877-stone-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0713-subarray-product-less-than-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
