@@ -6,6 +6,7 @@ class Solution {
 
         for ( j =0;j<n;j++){
             if (nums[j] ==0){
+                
                 k--;
 
                 max = Math.max(max , j - i);
@@ -14,9 +15,7 @@ class Solution {
                     if (nums[i] == 0) k++;
                     i++;
                 }
-
             }
-           
         }
          max = Math.max(max , j - i);
         return max;
