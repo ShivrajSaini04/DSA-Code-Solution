@@ -1,7 +1,6 @@
 class Solution {
     public int smallestIndex(int[] nums) {
        int n = nums.length;
-        int ans = Integer.MAX_VALUE;
 
         for (int i=0;i<n;i++){
             int x = nums[i];
@@ -11,9 +10,10 @@ class Solution {
                 sum += x % 10;
                 x /= 10;
             }
-            if ((sum < n && sum < ans) && nums[sum] == nums[i]) ans = sum;
+            
+            if (sum == i) return i;
         }
-         if (ans >= n) return -1;
-        return ans;
+         
+        return -1;
     }
 }
