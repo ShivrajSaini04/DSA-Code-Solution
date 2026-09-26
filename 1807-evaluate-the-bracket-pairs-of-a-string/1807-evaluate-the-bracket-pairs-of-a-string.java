@@ -27,7 +27,7 @@ class Solution {
             res.append(map.getOrDefault(key, "?"));
            
           }
-          if (ch == s.charAt(i)) res.append(ch);
+          else res.append(ch);
           i++;
        }
 
