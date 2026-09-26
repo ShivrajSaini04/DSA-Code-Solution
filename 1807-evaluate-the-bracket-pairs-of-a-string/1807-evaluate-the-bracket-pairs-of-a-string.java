@@ -16,16 +16,11 @@ class Solution {
           char ch = s.charAt(i);
 
           if (ch == '('){
-            i++;
-            StringBuilder str = new StringBuilder();
-            while(s.charAt(i) != ')'){
-                str.append(s.charAt(i));
-                i++;
-            }
+           int st =  ++i;
+            while(s.charAt(i) != ')') i++;
 
-            String key = str.toString();
+            String key = s.substring(st , i);
             res.append(map.getOrDefault(key, "?"));
-           
           }
           else res.append(ch);
           i++;
