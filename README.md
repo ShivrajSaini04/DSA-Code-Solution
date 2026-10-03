@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0257-binary-tree-paths) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0877-stone-game) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
