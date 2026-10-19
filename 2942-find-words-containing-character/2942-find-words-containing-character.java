@@ -4,8 +4,8 @@ class Solution {
 
         for (int i=0;i<words.length;i++ ){
             String str = words[i];
-            for (char ch : str.toCharArray()) {
-                if (ch == x) {
+            for (int j =0;j<str.length(); j++) {
+                if (str.charAt(j) == x) {
                     ans.add(i);
                     break;
                 }
