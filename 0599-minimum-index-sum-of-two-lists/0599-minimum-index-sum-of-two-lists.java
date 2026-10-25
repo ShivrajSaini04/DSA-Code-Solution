@@ -9,6 +9,8 @@ class Solution {
 
         for (int i = 0;i<list1.length;i++){
            
+           if (i > minSum) break;
+           
             if (map.containsKey(list1[i])){
                 int sum  =  i + map.get(list1[i]);
                 
