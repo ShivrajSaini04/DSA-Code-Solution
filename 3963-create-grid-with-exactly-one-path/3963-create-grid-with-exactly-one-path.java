@@ -1,6 +1,6 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        List<String> list = new ArrayList<>();
+        String[] ans = new String[m];
         char[][] mat = new char[m][n];
 
         for (int i=0;i<m;i++){
@@ -12,10 +12,9 @@ class Solution {
         
         int idx = 0;
         for (char[] row : mat) {
-            String str = new String(row);
-            list.add(str);
+            ans[idx++] = new String(row);
         }
 
-        return list.toArray(new String[0]);
+        return ans;
     }
 }
