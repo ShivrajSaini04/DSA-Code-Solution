@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2409-count-days-spent-together](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
