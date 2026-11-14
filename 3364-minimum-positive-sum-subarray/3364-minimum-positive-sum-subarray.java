@@ -9,9 +9,8 @@ class Solution {
 
             while (j < n){
                 sum += nums.get(j);
-                if (j > (i+r-1)) break;
                 
-                if ((j - i + 1) >= l && sum > 0 ) {
+                if (((j - i + 1) >= l && (j - i + 1) <= r) && sum > 0 ) {
                     min = Math.min(min,sum);
                 }
                 j++;
