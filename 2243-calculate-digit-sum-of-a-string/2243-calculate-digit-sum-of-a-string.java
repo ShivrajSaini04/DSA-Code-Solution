@@ -1,6 +1,7 @@
 class Solution {
     public String digitSum(String s, int k) {
         int n = s.length();
+        if (n <= k) return s;
         StringBuilder ans = new StringBuilder(s);
         StringBuilder str = new StringBuilder();
 
