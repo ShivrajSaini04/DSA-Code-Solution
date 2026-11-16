@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
