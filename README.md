@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
