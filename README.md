@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0678-valid-parenthesis-string) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivrajSaini04/DSA-Code-Solution/tree/master/1004-max-consecutive-ones-iii) |
