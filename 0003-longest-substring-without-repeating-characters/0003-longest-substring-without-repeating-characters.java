@@ -8,13 +8,10 @@ class Solution {
             char ch =  s.charAt(j);
            map.put(ch, map.getOrDefault(ch, 0) + 1);
 
-           if (map.get(ch) > 1) {
              while  ( i < j && map.get(ch) != 1) {
                 map.put(s.charAt(i) , map.getOrDefault(s.charAt(i) , 0) - 1);
                 i++;
              }
-             
-           }
 
            len = Math.max(len , j - i + 1);
            j++;
