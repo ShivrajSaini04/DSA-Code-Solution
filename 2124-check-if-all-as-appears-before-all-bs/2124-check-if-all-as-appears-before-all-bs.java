@@ -4,7 +4,7 @@ class Solution {
         int n = s.length();
         for (int i=0;i<n;i++){
             if (s.charAt(i) == 'b')  flag = true;
-            if (s.charAt(i) == 'a' && flag  ) return false;
+            else if (s.charAt(i) == 'a' && flag  ) return false;
         }
         return true;
     }
