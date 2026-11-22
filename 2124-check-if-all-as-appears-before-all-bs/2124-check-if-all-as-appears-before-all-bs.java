@@ -2,9 +2,9 @@ class Solution {
     public boolean checkString(String s) {
         boolean flag = false ;
         int n = s.length();
-        for (char ch : s.toCharArray()){
-            if (ch == 'b')  flag = true;
-            if (ch == 'a' && flag  ) return false;
+        for (int i=0;i<n;i++){
+            if (s.charAt(i) == 'b')  flag = true;
+            if (s.charAt(i) == 'a' && flag  ) return false;
         }
         return true;
     }
